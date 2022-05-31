@@ -1,0 +1,82 @@
+html, body {
+display: flex;
+flex-direction: column;
+  align-items:center;
+  background-color:#ffe4e1;
+  color:#800080;
+  font-size: 28px;
+}
+.Indice{
+  display: flex;
+  flex-direction: column;
+  align-items:left;
+  padding:10 px;
+  color: mediumpurple;
+}
+.Erosión {
+ display: flex;
+  flex-direction: column;
+  align-items:center;
+  padding:10 px;
+  color:darkred;
+ 
+}
+.naturales {
+ display: flex;
+  flex-direction: column;
+  align-items:center;
+  padding:10 px;
+  color:darkred;
+
+}
+.humana {
+ display: flex;
+  flex-direction: column;
+  align-items:center;
+  padding:10 px;
+  color:darkred;
+}
+.Efecto {
+display: flex;
+  flex-direction: column;
+  align-items:left;
+  padding:10 px;
+color:#8a2be2;  
+}
+.Solución{
+display: flex;
+  flex-direction: column;
+  align-items:center;
+  padding:10 px;
+  color: #663399;
+  
+}
+.Referencias{
+  color:darkblue;
+  font: 14px;
+}
+img{
+ display:inline-block;
+  position: relative;
+  max-width: 100%;
+   Max-height:100%;
+  min-widht: 60%;
+  min-height:60%; 
+  padding: 5px 10px 5px 10px;
+  margin: 2px;
+  text-align: center;
+ text-position:absolute;
+}
+iframe {
+  border:5px solid;
+  border-color: lightcoral
+}
+button{
+  background-color:#faebd7;
+  background-color: yellow
+   display: flex;
+}
+a hover{
+  color: hotpink;
+  
+}
